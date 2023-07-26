@@ -13,3 +13,4 @@ python-multipart==0.0.6
 tls-client==0.2.1
 python-dotenv==1.0.0
 replicate
+google-generativeai
